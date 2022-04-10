@@ -1,1 +1,2 @@
 # Blogging
+permalink: /Index.html
