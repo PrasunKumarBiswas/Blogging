@@ -1,2 +1,4 @@
 # Blogging
+---
 permalink: /Index.html
+---
