@@ -1,4 +1,0 @@
-# Blogging
----
-permalink: /Index.html
----
